@@ -1,4 +1,4 @@
-![rest_list](https://example.com/my-image.png)
+![rest_list](https://github.com/KFR1230/restaurant_list/blob/main/%E6%88%AA%E5%9C%96%202023-02-15%20%E4%B8%8B%E5%8D%886.20.12.png)
 
 # restaurant_list
 
